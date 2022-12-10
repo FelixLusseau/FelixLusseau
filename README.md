@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Félix LUSSEAU</h1>
 
 <h3 align="center">Student in IT and Networks at Télécom Physique Strasbourg<br>
-and president of the Info Télécom Strasbourg association</h3>
+President of the Info Télécom Strasbourg association</h3>
 
 <br>
 
