@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Félix LUSSEAU</h1>
 
 <h3 align="center">Student in IT and Networks at Télécom Physique Strasbourg<br>
-President of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://info-telecom-strasbourg.fr/images/logo/logo.png" alt="ITS" width="40" height="40"/> </a> </h3>
+President of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a> </h3>
 
 <br>
 
