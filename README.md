@@ -6,11 +6,11 @@ President of the Info Télécom Strasbourg association <a href="https://info-tel
 <br>
 
 - 🔭 I’m currently working on the **C Sniffer** project and the **servers infrastructure** of Info Télécom Strasbourg.
-- 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="blank">ITS website</a>)
+- 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/felix-lusseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-lusseau" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felix-lusseau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-lusseau" height="30" width="40" /></a>
 </p>  
 
 <h3 align="left">Computing skills :</h3>
