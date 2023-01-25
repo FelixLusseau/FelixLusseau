@@ -5,7 +5,7 @@ President of the Info Télécom Strasbourg association <a href="https://info-tel
 
 <br>
 
-- 🔭 I’m currently working on the **SoS Compiler** project and the **servers infrastructure** of Info Télécom Strasbourg.
+- 🔭 I’m currently working on the projects and the **servers infrastructure** of Info Télécom Strasbourg.
 - 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
 
 <h3 align="left">Connect with me :</h3>
