@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Félix LUSSEAU</h1>
 
 <h3 align="center">Student in IT and Networks at Télécom Physique Strasbourg<br>
-President of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a> </h3>
+Server administrator and former president of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a> </h3>
 
 <br>
 
-- 🔭 I’m currently working on the **C++ PacMan project**, the **Alcatel engineer project** and the **servers infrastructure** of Info Télécom Strasbourg.
+- 🔭 I’m currently working on the **C++ PacMan project**, the **Alcatel engineer project**, the **Cloud and Virtualization project**, the **Wireless Networks project**, the **Inter-domain routing project** and the **servers' infrastructure** of Info Télécom Strasbourg.
 - 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
 
 <h3 align="left">Connect with me :</h3>
