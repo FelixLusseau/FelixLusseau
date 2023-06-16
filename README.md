@@ -6,6 +6,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <br>
 
 - 🔭 I’m currently working on the **Alcatel engineer project** and the **servers' infrastructure** of Info Télécom Strasbourg.
+- 👷🏻‍♂️ I'm currently **System Engineer Intern** at **Arhs Developments** for 3 months.
 - 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
 
 <h3 align="left">Connect with me :</h3>
@@ -34,6 +35,14 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://www.virtualmin.com" target="_blank" rel="noreferrer"> <img src="https://www.virtualmin.com/wp-content/uploads/2021/07/virtualmin-logo-1.png" alt="virtualmin" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-860.png" alt="proxmox" height="40"/> </a>
 <a href="https://www.pfsense.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfsense" height="40"/> </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" height="40"/> </a>
+
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/594d0a0c-Canonical%20Ubuntu%20Dark.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.nomadproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155102-brandhcnomadverticalcolorwhite.svg" alt="nomad" width="40" height="40"/> </a>
+<a href="https://www.consul.io/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155094-brandhcconsulverticalcolorwhite.svg" alt="consul" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" height="30"/> </a>
+<a href="https://www.haproxy.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" alt="haproxy" width="40" height="40"/> </a>
 </p>
 
 <br>
