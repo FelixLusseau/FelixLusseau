@@ -6,7 +6,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <br>
 
 - 🔭 I’m currently working on the **Alcatel engineer project** and the **servers' infrastructure** of Info Télécom Strasbourg.
-- 👷🏻‍♂️ I'm currently **System Engineer Intern** at **Arhs Developments** for 3 months.
+- 👷🏻‍♂️ I had been **Infrastructure Engineer Intern** at **Arhs Developments** for 3 months during summer 2023.
 - 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
 
 <h3 align="left">Connect with me :</h3>
