@@ -52,7 +52,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://www.gluster.org/" target="_blank" rel="noreferrer"> <img src="https://gluster.wpenginepowered.com/wp-content/uploads/2016/03/gluster-ant.png" alt="glusterfs" height="40"/> </a>
 <a href="https://www.nutanix.com/" target="_blank" rel="noreferrer"> <img src="https://2.bp.blogspot.com/-rQj3j8ZD9Ck/WrO1i4DC_0I/AAAAAAAA44Q/6yN9a6pSbcsLcrTiLLWwUzDkPHWf87F5wCPcBGAYYCw/s1600/Nutanix_XStack.png" alt="nutanix" height="40"/> </a>
 <a href="https://wazuh.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4" alt="wazuh" height="40"/> </a>
-<a href="https://gitlab.arhs-developments.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" alt="gitlab" height="50"/> </a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" alt="gitlab" height="50"/> </a>
 </p>
 
 <br><br>
