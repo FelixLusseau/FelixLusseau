@@ -28,6 +28,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/3%20rgb/1%20Full%20Color/laravel-logolockup-rgb-red.svg" alt="laravel" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://p4.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/P4-programming-language-logo.png" alt="p4" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react" width="40" height="40"/> </a> 
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
