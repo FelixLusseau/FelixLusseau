@@ -29,19 +29,20 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://p4.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/P4-programming-language-logo.png" alt="p4" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://wordpress.com/fr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://wordpress.com/fr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://www.virtualmin.com" target="_blank" rel="noreferrer"> <img src="https://www.virtualmin.com/wp-content/uploads/2021/07/virtualmin-logo-1.png" alt="virtualmin" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-860.png" alt="proxmox" height="40"/> </a>
 <a href="https://www.pfsense.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfsense" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" height="40"/> </a>
 <a href="https://www.influxdata.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Influxdb_logo.svg" alt="influxdb" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" alt="docker-swarm" width="40" height="40"/> </a>
 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/594d0a0c-Canonical%20Ubuntu%20Dark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.nomadproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155102-brandhcnomadverticalcolorwhite.svg" alt="nomad" width="40" height="40"/> </a>
