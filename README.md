@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Félix LUSSEAU</h1>
 
 <h3 align="center">Student in IT and Networks at Télécom Physique Strasbourg<br>
-Server administrator and former president of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a> </h3>
+Server administrator and former president of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a> <br>
+Project engineer intern at Citeos Paris Solutions Digitales (Vinci Énergies) for 6 months</h3>
 
 <br>
 
 - 🔭 I’m currently working on the **servers' infrastructure** of Info Télécom Strasbourg and the InnovLab@TPS.
 - 👷🏻‍♂️ I had been **Infrastructure Engineer Intern** at **Arhs Developments** for 3 months during summer 2023.
 - 🌱 I’m currently learning **IT and Networks** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
-- 🧑🏻‍💻 I'm developing a Discord bot to manage the Clash Royale clans and clan wars of the One Punch Man Family (top 20 🇫🇷 in clan wars).
+- 🧑🏻‍💻 I'm developing a Discord bot to manage the Clash Royale clans and clan wars of the One Punch Man Family (top 17 🇫🇷 in clan wars).
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
