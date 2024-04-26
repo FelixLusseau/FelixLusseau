@@ -39,7 +39,6 @@ Project engineer intern at Citeos Paris Solutions Digitales (Vinci Énergies) fo
 <h4 align="left">System administration</h4>
 <p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.virtualmin.com" target="_blank" rel="noreferrer"> <img src="https://qlr.ro/wp-content/uploads/2016/07/logo-virtualmin-300x300.png" alt="virtualmin" width="40" height="40"/> </a>
@@ -48,8 +47,9 @@ Project engineer intern at Citeos Paris Solutions Digitales (Vinci Énergies) fo
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" height="40"/> </a>
 <a href="https://www.influxdata.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Influxdb_logo.svg" alt="influxdb" height="40"/> </a>
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" alt="docker-swarm" width="40" height="40"/> </a>
 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" alt="docker-swarm" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/594d0a0c-Canonical%20Ubuntu%20Dark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.nomadproject.io" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155102-brandhcnomadverticalcolorwhite.svg" alt="nomad" width="40" height="40"/> </a>
 <a href="https://www.consul.io" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155094-brandhcconsulverticalcolorwhite.svg" alt="consul" width="40" height="40"/> </a>
