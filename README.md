@@ -62,12 +62,12 @@ Project engineer intern at Citeos Paris Solutions Digitales (Vinci Énergies) fo
 <a href="https://wazuh.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4" alt="wazuh" height="40"/> </a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" alt="gitlab" height="50"/> </a>
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" height="50"/> </a>
-<a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://www.redhat.com/rhdc/managed-files/helm.svg" alt="helm" height="50"/> </a>
-<a href="https://argoproj.github.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" height="50"/> </a>
-<a href="https://www.crossplane.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" alt="crossplane" height="50"/> </a>
-<a href="https://traefik.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" height="50"/> </a>
-<a href="https://www.keycloak.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="keycloak" height="50"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" height="40"/> </a>
+<a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://www.redhat.com/rhdc/managed-files/helm.svg" alt="helm" height="40"/> </a>
+<a href="https://argoproj.github.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" height="40"/> </a>
+<a href="https://www.crossplane.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" alt="crossplane" height="40"/> </a>
+<a href="https://traefik.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" height="40"/> </a>
+<a href="https://www.keycloak.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="keycloak" height="40"/> </a>
 </p>
 
 <br><br>
