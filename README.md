@@ -69,6 +69,7 @@ Project engineer intern at Citeos Paris Solutions Digitales (Vinci Énergies) fo
 <a href="https://www.crossplane.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" alt="crossplane" height="40"/> </a>
 <a href="https://traefik.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" height="40"/> </a>
 <a href="https://www.keycloak.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="keycloak" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" height="40"/> </a>
 </p>
 
 <br><br>
