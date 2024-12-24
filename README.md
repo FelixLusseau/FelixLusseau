@@ -40,7 +40,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/512px-Nginx_logo.svg.png" alt="nginx" height="30"/> </a>
 <a href="https://www.virtualmin.com" target="_blank" rel="noreferrer"> <img src="https://qlr.ro/wp-content/uploads/2016/07/logo-virtualmin-300x300.png" alt="virtualmin" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-860.png" alt="proxmox" height="40"/> </a>
 <a href="https://www.pfsense.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfsense" height="40"/> </a>
@@ -70,6 +70,8 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://traefik.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" height="40"/> </a>
 <a href="https://www.keycloak.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="keycloak" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" height="40"/> </a>
+
+<a href="https://nixos.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" alt="nixos" height="40"/> </a>
 </p>
 
 <br><br>
