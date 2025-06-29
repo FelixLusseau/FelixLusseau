@@ -47,6 +47,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" height="40"/> </a>
 <a href="https://www.influxdata.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Influxdb_logo.svg" alt="influxdb" height="40"/> </a>
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" height="40"/> </a>
+<a href="https://grafana.com/oss/loki" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Loki" height="40"/> </a>
 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://aptira.com/wp-content/uploads/2016/09/dockerswarm_logo.png" alt="docker-swarm" width="40" height="40"/> </a>
@@ -64,6 +65,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" height="40"/> </a>
 <a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://www.redhat.com/rhdc/managed-files/helm.svg" alt="helm" height="40"/> </a>
+<a href="https://www.rancher.com" target="_blank" rel="noreferrer"> <img src="https://www.rancher.com/assets/img/logos/rancher-logo-cow-blue.svg" alt="rancher" height="35"/> </a>
 <a href="https://argoproj.github.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" height="40"/> </a>
 <a href="https://www.crossplane.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" alt="crossplane" height="40"/> </a>
 <a href="https://github.com/kr8s-org/kr8s" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kr8s-org/kr8s/main/branding/logo-solo.png" alt="kr8s" height="40"/> </a>
