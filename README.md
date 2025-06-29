@@ -44,6 +44,8 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://www.virtualmin.com" target="_blank" rel="noreferrer"> <img src="https://qlr.ro/wp-content/uploads/2016/07/logo-virtualmin-300x300.png" alt="virtualmin" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com" target="_blank" rel="noreferrer"> <img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-860.png" alt="proxmox" height="40"/> </a>
 <a href="https://www.pfsense.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfsense" height="40"/> </a>
+<a href="https://opnsense.org" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.50971.0316e8e5-0d24-4ba0-b383-3c64f5271f6d.c2776803-acef-4e82-b6a5-24720f5f115b.76b43274-7d15-4c55-a69e-f9c6f5dd25a0" alt="OPNSense" height="40"/> </a>
+
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" height="40"/> </a>
 <a href="https://www.influxdata.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Influxdb_logo.svg" alt="influxdb" height="40"/> </a>
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" height="40"/> </a>
@@ -59,6 +61,7 @@ Server administrator and former president of the Info Télécom Strasbourg assoc
 <a href="https://httpd.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.apache.org/logos/res/httpd/default.png" alt="apache" height="30"/> </a>
 <a href="https://www.haproxy.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" alt="haproxy" width="40" height="40"/> </a>
 <a href="https://www.gluster.org" target="_blank" rel="noreferrer"> <img src="https://gluster.wpenginepowered.com/wp-content/uploads/2016/03/gluster-ant.png" alt="glusterfs" height="40"/> </a>
+<a href="https://ceph.io" target="_blank" rel="noreferrer"> <img src="https://ceph.io/assets/bitmaps/Ceph_Logo_Stacked_RGB_120411_fa.png" alt="ceph" height="40"/> </a>
 <a href="https://www.nutanix.com" target="_blank" rel="noreferrer"> <img src="https://2.bp.blogspot.com/-rQj3j8ZD9Ck/WrO1i4DC_0I/AAAAAAAA44Q/6yN9a6pSbcsLcrTiLLWwUzDkPHWf87F5wCPcBGAYYCw/s1600/Nutanix_XStack.png" alt="nutanix" height="40"/> </a>
 <a href="https://wazuh.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4" alt="wazuh" height="40"/> </a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" alt="gitlab" height="50"/> </a>
