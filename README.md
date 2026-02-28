@@ -1,14 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Félix LUSSEAU</h1>
 
 <h3 align="center">Ops project engineer at Citeos Solutions Digitales (Vinci Énergies) <br> 
-Server administrator and former president of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a></h3>
+Nixpkgs maintainer <br>
+Server administrator and former president of the Info Télécom Strasbourg association <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a>
+</h3>
 
 <br>
 
-- 🔭 I’m currently working on the **CSD IRVE's servers infrastructure** and the **servers' infrastructure** of Info Télécom Strasbourg and the InnovLab@TPS.
+- 🔭 I’m currently working on the **CSD IRVE's servers infrastructure** and keeping an eye on the **servers' infrastructure** of Info Télécom Strasbourg and the InnovLab@TPS.
+- ❄️ I'm a [Nixpkgs Maintainer](https://github.com/NixOS/nixpkgs/commit/c42f42b69275c0950f168a50b1178f2ab4a319ee) of some packages on my free time.
 - 👷🏻‍♂️ I had been **Infrastructure Engineer Intern** at **Arhs Developments** for 3 months during summer 2023 and **Ops Project Engineer Intern** at **Citeos Solutions Digitales (Vinci Énergies)** for 6 months during 2024's first semester.
 - 🌱 I learnt **IT and Networks** at **Télécom Physique Strasbourg** and I'm co-administrator of the Info Télécom Strasbourg association **servers**. (Overview on the <a href="https://info-telecom-strasbourg.fr/servers-stats" target="_blank">ITS website</a>)
-- 🧑🏻‍💻 I'm developing a Discord bot to manage the Clash Royale clans and clan wars of the One Punch Man Family (top 10 🇫🇷 in clan wars).
+- 🧑🏻‍💻 I'm developing a Discord bot to manage the Clash Royale clans and clan wars of the One Punch Man Family (top 10 🇫🇷 in clan wars) and the Alliance FR community tournaments.
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
